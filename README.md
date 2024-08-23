@@ -57,4 +57,4 @@ For any questions or feedback, please open an issue on this repository.
 
 ---
 
-We hope these wireframes provide a clear vision for the NYC Transit Pulse installation. Thank you for your interest in our project!
+Thank you for your interest!
