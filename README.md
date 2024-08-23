@@ -1,4 +1,4 @@
-# NYC Transit Pulse Wireframes
+# NYC Transit Pulse 
 
 ## Project Overview
 
