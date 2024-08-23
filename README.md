@@ -31,3 +31,30 @@ This project is built using:
 To run this project locally:
 
 1. Clone the repository
+git clone https://github.com/JGSchaumburg/nyc-transit-pulse.git
+Copy2. Navigate to the project directory
+cd nyc-transit-pulse
+Copy3. Install dependencies
+npm install
+Copy4. Start the development server
+npm start
+Copy
+## Usage
+
+After starting the development server, open your browser and visit `http://localhost:3000`. You'll see the wireframes for the NYC Transit Pulse installation. Each section provides detailed information about different aspects of the installation.
+
+## Contributing
+
+We welcome contributions to improve the wireframes or expand the project. Please feel free to submit issues or pull requests.
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+## Contact
+
+For any questions or feedback, please open an issue on this repository.
+
+---
+
+We hope these wireframes provide a clear vision for the NYC Transit Pulse installation. Thank you for your interest in our project!
