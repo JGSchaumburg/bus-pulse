@@ -31,7 +31,7 @@ This project is built using:
 To run this project locally:
 
 1. Clone the repository
-git clone https://github.com/JGSchaumburg/nyc-transit-pulse.git
+git clone https://github.com/JGSchaumburg/bus-pulse.git
 Copy2. Navigate to the project directory
 cd nyc-transit-pulse
 Copy3. Install dependencies
