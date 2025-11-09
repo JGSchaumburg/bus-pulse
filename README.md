@@ -1,7 +1,7 @@
 # NYC Transit Pulse
 
 ## Project Overview
-NYC Transit Pulse is an interactive installation designed to visualize real-time transit data for New York City's bus system. This project provides detailed diagrams of the installation, showcasing its layout, GTFS-RT LED implementation, and interactive features.
+NYC Transit Pulse is an interactive, physical art installation designed allow people to physically walk through real-time transit data, usingreal-time transit data for New York City's bus system. This project provides detailed diagrams of the installation, showcasing its layout, GTFS-RT LED implementation, and interactive features.
 
 ## Features
 1. **Overall Installation Layout**: 
